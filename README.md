@@ -7,7 +7,7 @@
 <span style="color: orange">EnjoyWorkingOn:</span>
     - 🧩 Programming Puzzles
     - ⚔️ Pentesting Projects
-    - 🛠️ DIY Raspberry Pi & Arduino Projects
+    - 🛠️ DIY Arduino & Raspberry Pi Projects
 <span style="color: orange">skills = {</span> 
     <span style="color: orange">Languages:</span> [Bash, Java, JavaScript, Python],
     <span style="color: orange">Frontend:</span> [React, Tailwind CSS],
