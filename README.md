@@ -5,9 +5,9 @@
 <span style="color: orange">Location:</span> Europe/Spain
 <span style="color: orange">CurrentlyLearning:</span> Java
 <span style="color: orange">EnjoyWorkingOn:</span>
-    - Programming Puzzles
-    - Pentesting Projects
-    - DIY Raspberry Pi & Arduino Projects
+    - 🧩 Programming Puzzles
+    - ⚔️ Pentesting Projects
+    - 🛠️ DIY Raspberry Pi & Arduino Projects
 <span style="color: orange">skills = {</span> 
     <span style="color: orange">Languages:</span> [Bash, Java, JavaScript, Python],
     <span style="color: orange">Frontend:</span> [React, Tailwind CSS],
