@@ -8,7 +8,7 @@
     - 🧩 Programming Puzzles
     - ⚔️ Pentesting Projects
     - 🛠️ DIY Arduino & Raspberry Pi Projects
-<span style="color: orange">skills = {</span> 
+<span style="color: orange">Skills = {</span>
     <span style="color: orange">Languages:</span> [Bash, Java, JavaScript, Python],
     <span style="color: orange">Frontend:</span> [React, Tailwind CSS],
     <span style="color: orange">Backend:</span> [Flask, Nodejs, Spring Boot],
